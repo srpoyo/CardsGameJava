@@ -3,6 +3,7 @@ There we go, my first repository. A simple Java project to simulate cards games 
 The project has been made to study the % of win ratio the game has. It's not a skill game, so I could make an algorithm for it.
 
 <strong>ALGORITHM</strong>
+--
 The algorithm is simple. We have a spanish deck, 40 cards with 4 different suits and numbers 1 to 7 plus "Sota", "Caballo" and "Rey" for
 each of them. So we randomize the deck and since the first card to the last one check if the n-2 card (n is the actual card position in
 the deck) has the same suit or the same number. In this case, we put the n-1 card(s) above the n-2 card(s).
@@ -27,7 +28,7 @@ we can see the win ratio of it.
 
 
 <strong>USE</strong>
-
+--
 To execute it we have to write the number of tries we want.
 An example of use and output:
 
@@ -38,7 +39,7 @@ Output:
 El numero de victorias en 10.000.000 intentos es: 46.064
 El de derrotas: 9.953.936
 En esta simulacion sale una media de 1 victoria cada 217,082 intentos.
---
+//
 (English)
 The number of wins in 10.000.000 tries is: 46.064
 The number of losses: 9.953.936
