@@ -33,8 +33,10 @@ To execute it we have to write the number of tries we want.
 An example of use and output:
 
 Compile:  javac JuegoCartasJava.java
+
 Run:      java JuegoCartasJava 10000000
-Output:   
+
+Output:
 (Spanish)
 El numero de victorias en 10.000.000 intentos es: 46.064
 El de derrotas: 9.953.936
