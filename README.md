@@ -38,11 +38,19 @@ Run:      java JuegoCartasJava 10000000
 
 Output:
 (Spanish)
+
 El numero de victorias en 10.000.000 intentos es: 46.064
+
 El de derrotas: 9.953.936
+
 En esta simulacion sale una media de 1 victoria cada 217,082 intentos.
+
 //
+
 (English)
+
 The number of wins in 10.000.000 tries is: 46.064
+
 The number of losses: 9.953.936
+
 In this simulation we have an average of 1 victory each 217.082 tries.
